@@ -5,9 +5,9 @@ description = "A Python package to flatten nested data structures"
 authors = ["Sathish Kumar K <sathishpatel415@gmail.com>"]
 readme = "README.md"
 packages = [{include = "flatten_nested"}]
-homepage = "https://github.com/sathishpatel415/flatten-nested"
-repository = "https://github.com/sathishpatel415/flatten-nested"
-documentation = "https://github.com/sathishpatel415/flatten-nested#readme"
+homepage = "https://github.com/sathishpatel415/flatten_nested"
+repository = "https://github.com/sathishpatel415/flatten_nested"
+documentation = "https://github.com/sathishpatel415/flatten_nested#readme"
 keywords = ["flatten", "nested", "list", "dict", "tuple", "set"]
 license = "MIT"
 classifiers = [
